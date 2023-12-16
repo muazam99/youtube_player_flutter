@@ -378,7 +378,7 @@ class _YoutubePlayerState extends State<YoutubePlayer> {
                                 ),
                                 RemainingDuration(),
                                 const PlaybackSpeedButton(),
-                                FullScreenButton(),
+                                // FullScreenButton(),
                               ],
                         ),
                       ),
